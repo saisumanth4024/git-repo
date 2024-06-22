@@ -3,3 +3,8 @@
     color: red;
     font-size: large;
 }
+
+h1{
+    color: aquamarine;
+    background:linear-gradient(to right,orange ,green);
+}
